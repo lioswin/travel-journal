@@ -1,10 +1,10 @@
-body{
+/* body{
     padding-top: 0px;
     margin:0px;
     /* box-sizing: border-box; */
-}
+/* } */
 
-nav{
+/* nav{
     position:absolute;
     text-align: center;
     color: white;
@@ -13,33 +13,33 @@ nav{
     height: 60px;
     left: 0px;
     top: 0px;
-    margin-top: 0px; 
-    background: #F55A5A;
+    margin-top: 0px;  */ 
+    /* background: #F55A5A;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
+    
 }
 
-.card{
-    position: absolute;
+.card{ */
+    /* position: absolute;
     width: 92%;
     height: 168px;
     left: 40px;
     top: 100px;
     /* right: 40px; */
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    /* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
 
 
-}
+/* } */ 
 
-hr{
+/* hr{
     position: absolute;
     width: 92%;
     height: 0px;
     left: 40px;
     top: 286px;
 
-    border: 1px solid #F5F5F5;
-}
+    border: 1px solid #F5F5F5; */
+/* }
 
 .image{
     position: absolute;
@@ -49,5 +49,5 @@ hr{
     top: 100px;
     background-color: aqua;
     /* background: url(.png); */
-    border-radius: 5px;
-}
+    /* border-radius: 5px;
+} */ 

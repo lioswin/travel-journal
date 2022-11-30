@@ -3,8 +3,10 @@ import world from "../resources/world.svg"
 function Navbar(){
     return (
         <nav>
-            <span><img src={world}/></span><h3>My travel journey.</h3>
-        </nav>
+            
+                {/* <span><img src={world}/></span>  */}
+                <h3>My travel journey.</h3>
+                </nav>
     )
 }
 
