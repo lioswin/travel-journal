@@ -1,10 +1,10 @@
 import React from "react"
-
+import fuji from "../resources/fuji.jpg"
 function Card(){
     return(
         <div>
-        <div className="card">
-            <img src="https://source.unsplash.com/WLxQvbMyfas" alt="fuji"/>
+        <div className="">
+            <img src={fuji} className="image" alt="fuji"/>
         </div>
         <hr/>
         </div>
